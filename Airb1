@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bem-vindo ao Condomínio Cores da Lapa</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #b8cad4;
+    }
+
+    .container {
+      max-width: 600px;
+      margin: 0 auto;
+      padding: 20px;
+      background-color: #ffffff;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+
+    h1 {
+      color: #333333;
+      font-size: 24px;
+      margin-top: 0;
+    }
+
+    p {
+      color: #666666;
+      font-size: 16px;
+    }
+  </style>
+</head>
+<body>
+<div class="overlay"></div>
+<div class="background-mask">
+    <h1>Bem-vindo ao Condomínio Cores da Lapa no Rio de Janeiro!</h1>
+<p>É um prazer tê-lo como nosso hóspede no nosso apartamento. Para garantir que você tenha uma estadia tranquila e agradável, preparamos algumas informações importantes sobre o condomínio e o apartamento. Por favor, leia com atenção as instruções abaixo:</p>
+
+<h2>1. Check-in</h2>
+<ul>
+    <li>O horário de check-in é a partir das 15h. Caso tenha necessidade de um check-in antecipado, entre em contato conosco para verificar a disponibilidade.</li>
+    <li>Ao chegar no condomínio, informe-se com a recepção sobre ...</li>
+    <li>O check-out deve ser feito até 12h.</li>
+</ul>
+
+<h2>2. Gás de Cozinha:</h2>
+<ul>
+    <li>Para abrir o gás de cozinha, localize o registro amarelo na parte de trás do fogão.</li>
+    <li>Gire o registro no sentido anti-horário para abrir e certifique-se de fechá-lo completamente após o uso.</li>
+</ul>
+
+<h2>3. Gás do Aquecedor do Banheiro:</h2>
+<ul>
+    <li>O aquecedor do banheiro utiliza gás. Para ligá-lo, localize o aquecedor, na cozinha na parede acima e a direita do fogão.</li>
+    <li>Gire o registro no sentido anti-horário para abrir e certifique-se de fechá-lo completamente após o uso.</li>
+    <li>Em caso de dúvidas ou problemas, entre em contato conosco imediatamente.</li>
+</ul>
+
+<h2>4. Senha da Internet</h2>
+<ul>
+<li>A senha está em um QR Code na sala. Aponte o celular e conecte para usá-la.</li>
+<li>Se desejar inserir manualmente, a senha da internet Wi-Fi está disponível na parte inferior do roteador no quarto de casal.</li> </p>
+</ul>
+
+<h2>5. Outras Informações Relevantes</h2>
+<ul>
+<li>Em caso de emergência ou problemas no apartamento, entre em contato conosco imediatamente. Estaremos prontos para ajudar.</li>
+<li>Respeite as regras e regulamentos do condomínio, incluindo horários de silêncio e áreas comuns.</li>
+<li>Não é permitido fumar dentro do apartamento ou nas áreas comuns do condomínio.</li>
+<li>Por favor, conserve a energia, desligando as luzes e os aparelhos elétricos quando não estiverem em uso.</li>
+<li>Informações adicionais sobre a área local, restaurantes, atrações turísticas e transporte público podem ser encontradas no guia de informações no apartamento.</li>
+</ul>
+
+<div class="contact-info">
+    <p>Esperamos que você aproveite ao máximo a sua estadia no Condomínio Cores da Lapa. Caso tenha alguma dúvida adicional ou precise de assistência durante a sua estadia, não hesite em entrar em contato conosco.</p>
+    <p>Desejamos uma ótima estadia!</p>
+    <p>Atenciosamente,</p>
+    <p>Jamileh & Paulo</p>
+</div>
+
+<div class="footer">
+    <p>&copy; 2023 Condomínio Cores da Lapa. Todos os direitos reservados.</p>
+</div>
+</body>
+</html>
